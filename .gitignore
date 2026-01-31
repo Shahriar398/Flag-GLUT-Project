@@ -1,0 +1,12 @@
+
+# Ignore compiled output folders
+bin/
+obj/
+
+# Ignore CodeBlocks temp files
+*.layout
+*.depend
+
+# Ignore executables
+*.exe
+*.o
